@@ -1,0 +1,36 @@
+{
+    "projects": [
+      {
+        "title": "C/C++",
+        "description":"Intermediate"
+       
+      },
+  
+      {
+        "title": "Java/Python",
+        "description":"Beginner"
+       
+      },
+      {
+        "title": "MERN",
+        "description":"Mern stact developer"
+       
+      },
+      {
+        "title": "Competitive Coding",
+        "description":"Intermediate"
+       
+      },
+      {
+        "title": "HTML/CSS",
+        "description":"Intermediate"
+       
+      },
+      {
+        "title": "JavaScript",
+        "description":"Intermediate"
+       
+      }
+    ]
+  }
+  

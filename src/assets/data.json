@@ -1,0 +1,46 @@
+{
+  "projects": [
+    {
+      "title": "TECHI SUPPORT",
+      "description": "An Educational website with user Authentication. Website consist of free resources which can be aaccessed from any where",
+      "url": "https://techi-support-it1o.onrender.com",
+      "imgSrc": "https://source.unsplash.com/random/?tech,support,laptop"
+    },
+    {
+      "title": "INFINICODE",
+      "description": "Very First React App with proper responsivness. The website is simple with home about and contact us pages,etc",
+      "url": "https://infinicode.onrender.com",
+      "imgSrc": "https://source.unsplash.com/random/?tech,code,coding"
+    },
+    {
+      "title": "WEATHER APP",
+      "description": "Real time API based project which uses open source weather API to fetch data and gives realtime weather report",
+      "url": "https://ashwanikumar1715.github.io/weather_app/",
+      "imgSrc": "https://source.unsplash.com/random/?weather,cloudy,rainy,monsoon"
+    },
+    {
+      "title": "ALARM CLOCK",
+      "description": "Javascript based project which uses DOM and event listner of javascript and date method to alert at time setted",
+      "url": "https://ashwanikumar1715.github.io/Alarm_clock_javascript/",
+      "imgSrc": "https://source.unsplash.com/random/?clock,alarmclock,alarm"
+    },
+    {
+      "title": "Quiz APP",
+      "description": "Javascript based project which uses DOM and event listner of javascript and validate the ans to give result",
+      "url": "https://ashwanikumar1715.github.io/quiz-app/",
+      "imgSrc": "https://source.unsplash.com/random/?Quiz,question"
+    },
+    {
+      "title": "PORTFOLIO",
+      "description": "Personal website to manage my skills and Projects",
+      "url": "https://ashwanikumar1715.github.io/portfolio/",
+      "imgSrc": "https://source.unsplash.com/random/?website,human,code"
+    },
+    {
+      "title": "MUSIC APP",
+      "description": "Javascript based project which uses DOM and event listner of javascript and play music for user",
+      "url": "https://ashwanikumar1715.github.io/Music-Player/",
+      "imgSrc": "https://source.unsplash.com/random/?music,song"
+    }
+  ]
+}
