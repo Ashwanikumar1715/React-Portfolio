@@ -11,8 +11,8 @@ const Work = () => {
         <article>
           <Carousel
             showArrows={true}
-            showIndicators={true}
-            showStatus={false}
+            showIndicators={false}
+            showStatus={true}
             showThumbs={false}
             interval={2000}
             infiniteLoop={true}
@@ -25,7 +25,7 @@ const Work = () => {
                   <h3>{i.title}</h3>
                   <p>{i.description}</p>
                   <a target={"blank"} href={i.url}>
-                    View Demo
+                    View Live
                   </a>
                 </aside>
               </div>

@@ -128,7 +128,7 @@
 
   #work {
     padding: 8rem $p_zero;
-    height:100vh ;
+    height:135vh ;
     > section {
       > article {
         height: 25rem;
@@ -138,8 +138,11 @@
       }
     }
   }
-#timeline{
-  height: 150vh;
+.timeline{
+  height: 185vh;
+}
+.education{
+  height: 125vh;
 }
   #services {
     padding: $p_sm_inverse;
@@ -262,13 +265,15 @@
   }
 
   #work {
+    
+    height: 120vh;
     > section {
       > article {
         width: 100%;
-        height: 30vmax;
+        height: 40vmax;
       }
       .workItem {
-        height: 30vmax;
+        height: 50vmax;
         box-shadow: 0 0 5px $color1;
         > aside {
           padding: 1rem;
@@ -294,7 +299,7 @@
     }
   }
 
-  #timeline {
+  .timeline {
     .timelineBox::after {
       left: 31px;
     }

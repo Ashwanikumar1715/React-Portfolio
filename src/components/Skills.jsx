@@ -1,11 +1,11 @@
 import React from "react";
-import data from "../assets/education.json";
+import data from "../assets/data2.json";
 
-const Timeline = () => {
+const Skills = () => {
   return (
-    <div id="education"  className="timeline education">
+    <div id="skills" className="timeline">
       <div className="timelineBox">
-        {data.education.map((item, index) => (
+        {data.skills.map((item, index) => (
           <TimelineItem
             heading={item.title}
             text={item.description}
@@ -31,4 +31,4 @@ const TimelineItem = ({ heading, text, index }) => (
   </div>
 );
 
-export default Timeline;
+export default Skills;

@@ -1,36 +1,33 @@
 {
-    "projects": [
-      {
-        "title": "C/C++",
-        "description":"Intermediate"
-       
-      },
-  
-      {
-        "title": "Java/Python",
-        "description":"Beginner"
-       
-      },
-      {
-        "title": "MERN",
-        "description":"Mern stact developer"
-       
-      },
-      {
-        "title": "Competitive Coding",
-        "description":"Intermediate"
-       
-      },
-      {
-        "title": "HTML/CSS",
-        "description":"Intermediate"
-       
-      },
-      {
-        "title": "JavaScript",
-        "description":"Intermediate"
-       
-      }
-    ]
-  }
-  
+  "skills": [
+    {
+      "title": "C/C++",
+      "description": "Intermediate"
+    },
+    {
+      "title": "Node and Express js",
+      "description": "Intermediate"
+    },
+    {
+      "title": "Java&Python",
+      "description": "Beginner"
+    },
+    {
+      "title": "MongoDB and Reactjs",
+      "description": "Beginner"
+    },
+    {
+      "title": "Problem Solving",
+      "description": "Intermediate"
+    },
+    {
+      "title": "HTML&CSS",
+      "description": "Intermediate"
+    },
+    {
+      "title": "JavaScript",
+      "description": "Intermediate"
+    }
+    
+  ]
+}

@@ -7,7 +7,8 @@ import Testimonial from "./components/Testimonial";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
 import { Toaster } from "react-hot-toast";
-import { useEffect, useState } from "react";
+import {  useState } from "react";
+import Skills from "./components/Skills";
 
 function App() {
   const [menuOpen, setMenuOpen] = useState(false);
@@ -21,6 +22,7 @@ function App() {
       <Work />
       <Timeline />
       <Services />
+      <Skills />
       <Testimonial />
       <Contact />
       <Footer />
