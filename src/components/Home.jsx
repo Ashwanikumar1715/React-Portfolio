@@ -67,7 +67,7 @@ const Home = () => {
           />
 
           <div>
-          <motion.a {...animations.a} href="mailto:official.6packprogrammer@gmail.com">
+          <motion.a {...animations.a} href="mailto:ashwanikumar29707@gmail.com">
             Hire Me
             </motion.a>
             <motion.a {...animations.a} href="#work">
