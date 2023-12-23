@@ -2,7 +2,7 @@ import React, { useRef,useEffect } from "react";
 import { animate, motion } from "framer-motion";
 import Typewriter from "typewriter-effect";
 import { BsArrowUpRight, BsChevronDown } from "react-icons/bs";
-import me from "../assets/pr2.png";
+import me from "../assets/circle.png";
 
 const Home = () => {
   const clientCount = useRef(null);
